@@ -1,0 +1,3 @@
+Cliente: test1@mail.com Pwdtest1$
+Manager: test2@mail.com Pwdtest2$
+Super_Admin: test3@mail.com Pwdtest3$
