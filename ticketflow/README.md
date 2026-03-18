@@ -1,17 +1,6 @@
 # TicketFlow
 
-## 1. Partecipanti al gruppo
-* **Stefano Bellan**
-    * Matricola: 20054330
-    * Data esame scritto prevista: 03/02/2026
-* **Luca Franzon**
-    * Matricola: 20054744
-    * Data esame scritto prevista: 03/02/2026
-* **Timothy Giolito**
-    * Matricola: 20054431
-    * Data esame scritto prevista: 03/02/2026
-
-## 2. Descrizione del Progetto
+## Descrizione del Progetto
 
 **Nome del progetto:** TicketFlow
 
